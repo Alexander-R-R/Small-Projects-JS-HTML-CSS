@@ -1,0 +1,33 @@
+body {
+  background-image: url(table.png);
+  background-size: cover;
+  font-family: "Trebuchet MS", sans-serif;
+  text-align: center;
+  font-size: 44px;
+  color: white;
+  font-weight: bold;
+}
+
+h1 {
+  color: goldenrod;
+  font-size: 76px;
+}
+
+#message-el {
+  font-style: italic;
+}
+
+.btn {
+  padding: 10px 10px;
+  background: goldenrod;
+  border-style: none;
+  border-radius: 3px;
+  font-size: 30px;
+  text-transform: uppercase;
+  font-weight: bold;
+  color: #007634;
+  display: block;
+  margin: 0 auto;
+  margin-top: 5px;
+  width: 24%;
+}
